@@ -80,10 +80,6 @@ h2 {
     padding-right: 25px;
 }
 
-.home {
-    font-weight: bold;
-}
-
 .Create {
 
     text-align: center;
@@ -91,10 +87,4 @@ h2 {
 
 form {
     text-align: center;
-}
-
-.sad {
-    width: 800px;
-    height: 500px;
-
 }
